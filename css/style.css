@@ -3,4 +3,7 @@
   font-size: 6em;
   text-shadow: 3px 2px yellow;
   color: black;
+  margin: 5px;
+  border: 2px solid green;
+  background-color: orange;
 }
