@@ -1,4 +1,4 @@
-.supreme {
+/* .supreme {
   float: left;
   font-size: 6em;
   text-shadow: 3px 2px yellow;
@@ -6,4 +6,31 @@
   margin: 5px;
   border: 2px solid green;
   background-color: orange;
+} */
+
+
+element.style {
+}
+.headshot-container img {
+  float: right;
+    box-shadow: 3px 8px 3px 3px rgba(38,70,83,.4);
+    margin: 0 auto;
+}
+.bg-1 {
+  background-color: #a8e4a0; /* Green */
+  color: #ffffff;
+}
+
+.container-fluid{
+  padding-top: 70px;
+  background-color: #ffffff
+}
+.jumbotron{
+  background-color: #ffffff
+  
+}
+
+.guitar {
+  float: right;
+  border: 5px dashed blue;
 }
